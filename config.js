@@ -24,33 +24,33 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'Andy-md-V3'
-global.namaowner = 'andymrlit'
+global.namabot = 'Gilzz-md-V3'
+global.namaowner = 'GilzzOfc'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['50941311147']
-global.premium = ['50947477839','50941411147']
+global.owner = ['6285730794089']
+global.premium = ['6285730794089','6285730794089']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['50941411147']
-global.xl = ['-']
-global.indosat = ['-']
-global.tri = ['50941411147']
-global.smartfren = ['-']
-global.gopay = ['50941411147']
-global.dana = ['50941411147']
-global.ovo = ['-']
-global.saweria = ['https://saweria.co/G']
+global.telkomsel = ['PC OWN']
+global.xl = ['PC OWN']
+global.indosat = ['PC OWN']
+global.tri = ['PC OWN']
+global.smartfren = ['PC OWN']
+global.gopay = ['085730794089']
+global.dana = ['081241056195']
+global.ovo = ['PC OWN']
+global.saweria = ['https://saweria.co/gilzzbotz']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Andymrlit'
+global.github = 'https://github.com/gilzzbotz'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = 'Andymrlit'
+global.packname = 'GilzzMaker'
 global.author = 'WhatsApp Bot'
 
 //—————「 Set Nama Session 」—————//
